@@ -1,0 +1,41 @@
+﻿@using GestionSuperheroes.Data.EF
+@model List<GestionSuperheroes.Data.EF.Superheroe>
+
+@{
+    ViewBag.Title = "Heroes Registrados";
+}
+
+<h1>Héroes Registrados</h1>
+
+<div>
+    <a href="@Url.Action("AgregarHeroe", "Heroe")" class="btn btn-primary">Nuevo Héroe</a>
+</div>
+
+<form asp-action="Lista" method="post" class="filter-form">
+    <div>
+        @await Html.PartialAsync("/Views/Shared/_pvComboUniversos.cshtml")
+        <button type="submit" class="btn btn-secondary">Aplicar Filtro</button>
+    </div>
+</form>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.First().NombreSuperheroe)</th>
+            <th>@Html.DisplayNameFor(model => model.First().IdUniversoNavigation.NombreUniverso)</th>
+            <th>Acción</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var heroe in Model)
+        {
+            <tr>
+                <td>@heroe.NombreSuperheroe</td>
+                <td>@heroe.IdUniversoNavigation.NombreUniverso</td>
+                <td>
+                    <a href="/Heroe/EliminarHeroe?IdSuperheroe=@heroe.IdSuperheroe&IdUniverso=@ViewBag.IdUniversoSeleccionado" class="text-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,15 @@
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\bin\Debug\net8.0\GestionSuperheroes.Servicios.deps.json
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\bin\Debug\net8.0\GestionSuperheroes.Servicios.dll
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\bin\Debug\net8.0\GestionSuperheroes.Servicios.pdb
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\bin\Debug\net8.0\GestionSuperheroes.Data.dll
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\bin\Debug\net8.0\GestionSuperheroes.Data.pdb
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\obj\Debug\net8.0\GestionSuperheroes.Servicios.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\obj\Debug\net8.0\GestionSuperheroes.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\obj\Debug\net8.0\GestionSuperheroes.Servicios.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\obj\Debug\net8.0\GestionSuperheroes.Servicios.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\obj\Debug\net8.0\GestionSuperheroes.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\obj\Debug\net8.0\GestionS.741F9A33.Up2Date
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\obj\Debug\net8.0\GestionSuperheroes.Servicios.dll
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\obj\Debug\net8.0\refint\GestionSuperheroes.Servicios.dll
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\obj\Debug\net8.0\GestionSuperheroes.Servicios.pdb
+C:\Users\Maxi\source\repos\GestionSuperheroes\GestionSuperheroes.Servicios\obj\Debug\net8.0\ref\GestionSuperheroes.Servicios.dll

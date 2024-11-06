@@ -1,0 +1,71 @@
+# Archivos y carpetas generados por Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+
+# Paquetes de NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Archivos de configuración de Rider y VS Code
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Archivos de configuración de dependencias
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de configuración y compilación de Mac
+.DS_Store
+*.DS_Store
+
+# Logs
+*.log
+
+# Archivos de publicación y despliegue
+publish/
+*.publishsettings
+*.wdeploy*
+
+# Archivos de base de datos local y migraciones
+*.mdf
+*.ldf
+*.sqlite
+*.sqlite3
+*.db
+
+# Archivos de configuración temporal
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Archivos generados por Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Archivos de cache de compilación de C#
+*.pidb
+*.suo
+*.sln.docstates
+*.localhistory/
+
+# Archivos específicos de diseño o imágenes temporales
+Thumbs.db

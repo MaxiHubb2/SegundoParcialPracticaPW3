@@ -1,0 +1,17 @@
+﻿@using GestionSuperheroes.Data.EF
+<label class="col-md-2 control-label">Universo</label>
+
+<select id="IdUniverso" name="IdUniverso">
+    <option value="0">Seleccione una universo</option>
+    @foreach (Universo item in ViewBag.Universos)
+    {
+        if (((int?)ViewBag.IdUniversoSeleccionado).HasValue && ((int?)ViewBag.IdUniversoSeleccionado).Value == item.IdUniverso)
+        {
+            <option value="@item.IdUniverso" selected>@item.NombreUniverso</option>
+        }
+        else
+        {
+            <option value="@item.IdUniverso">@item.NombreUniverso</option>
+        }
+    }
+</select>
