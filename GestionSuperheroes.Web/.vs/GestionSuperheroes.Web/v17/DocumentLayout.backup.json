@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{33E3C285-4AB3-4852-82E6-71D04C6693EF}|GestionSuperheroes.Web.csproj|c:\\users\\maxi\\source\\repos\\gestionsuperheroes\\gestionsuperheroes.web\\controllers\\heroecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33E3C285-4AB3-4852-82E6-71D04C6693EF}|GestionSuperheroes.Web.csproj|solutionrelative:controllers\\heroecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33E3C285-4AB3-4852-82E6-71D04C6693EF}|GestionSuperheroes.Web.csproj|c:\\users\\maxi\\source\\repos\\gestionsuperheroes\\gestionsuperheroes.web\\views\\heroe\\agregarheroe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33E3C285-4AB3-4852-82E6-71D04C6693EF}|GestionSuperheroes.Web.csproj|solutionrelative:views\\heroe\\agregarheroe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1256940C-FDC1-4DDC-BA27-7F8D1CA12584}|..\\GestionSuperheroes.Data\\GestionSuperheroes.Data.csproj|c:\\users\\maxi\\source\\repos\\gestionsuperheroes\\gestionsuperheroes.data\\ef\\universo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5382E404-06F7-48D2-AA30-51FCC86380AC}|..\\GestionSuperheroes.Servicios\\GestionSuperheroes.Servicios.csproj|c:\\users\\maxi\\source\\repos\\gestionsuperheroes\\gestionsuperheroes.servicios\\superheroeservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33E3C285-4AB3-4852-82E6-71D04C6693EF}|GestionSuperheroes.Web.csproj|c:\\users\\maxi\\source\\repos\\gestionsuperheroes\\gestionsuperheroes.web\\views\\heroe\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33E3C285-4AB3-4852-82E6-71D04C6693EF}|GestionSuperheroes.Web.csproj|solutionrelative:views\\heroe\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1256940C-FDC1-4DDC-BA27-7F8D1CA12584}|..\\GestionSuperheroes.Data\\GestionSuperheroes.Data.csproj|c:\\users\\maxi\\source\\repos\\gestionsuperheroes\\gestionsuperheroes.data\\ef\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5382E404-06F7-48D2-AA30-51FCC86380AC}|..\\GestionSuperheroes.Servicios\\GestionSuperheroes.Servicios.csproj|c:\\users\\maxi\\source\\repos\\gestionsuperheroes\\gestionsuperheroes.servicios\\universoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33E3C285-4AB3-4852-82E6-71D04C6693EF}|GestionSuperheroes.Web.csproj|c:\\users\\maxi\\source\\repos\\gestionsuperheroes\\gestionsuperheroes.web\\views\\shared\\_pvcombouniversos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33E3C285-4AB3-4852-82E6-71D04C6693EF}|GestionSuperheroes.Web.csproj|solutionrelative:views\\shared\\_pvcombouniversos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33E3C285-4AB3-4852-82E6-71D04C6693EF}|GestionSuperheroes.Web.csproj|c:\\users\\maxi\\source\\repos\\gestionsuperheroes\\gestionsuperheroes.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33E3C285-4AB3-4852-82E6-71D04C6693EF}|GestionSuperheroes.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33E3C285-4AB3-4852-82E6-71D04C6693EF}|GestionSuperheroes.Web.csproj|c:\\users\\maxi\\source\\repos\\gestionsuperheroes\\gestionsuperheroes.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{33E3C285-4AB3-4852-82E6-71D04C6693EF}|GestionSuperheroes.Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33E3C285-4AB3-4852-82E6-71D04C6693EF}|GestionSuperheroes.Web.csproj|c:\\users\\maxi\\source\\repos\\gestionsuperheroes\\gestionsuperheroes.web\\ef\\heroesbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33E3C285-4AB3-4852-82E6-71D04C6693EF}|GestionSuperheroes.Web.csproj|solutionrelative:ef\\heroesbdcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,149 +32,32 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwB4AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T23:47:16.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T23:44:47.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_pvComboUniversos.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\Views\\Shared\\_pvComboUniversos.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_pvComboUniversos.cshtml",
-              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\Views\\Shared\\_pvComboUniversos.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_pvComboUniversos.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T23:40:29.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Universo.cs",
-              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Data\\EF\\Universo.cs",
-              "RelativeDocumentMoniker": "..\\GestionSuperheroes.Data\\EF\\Universo.cs",
-              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Data\\EF\\Universo.cs",
-              "RelativeToolTip": "..\\GestionSuperheroes.Data\\EF\\Universo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T23:14:32.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AgregarHeroe.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\Views\\Heroe\\AgregarHeroe.cshtml",
-              "RelativeDocumentMoniker": "Views\\Heroe\\AgregarHeroe.cshtml",
-              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\Views\\Heroe\\AgregarHeroe.cshtml",
-              "RelativeToolTip": "Views\\Heroe\\AgregarHeroe.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBIAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T23:09:39.517Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HeroeController.cs",
-              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\Controllers\\HeroeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HeroeController.cs",
-              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\Controllers\\HeroeController.cs",
-              "RelativeToolTip": "Controllers\\HeroeController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwDsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T22:48:28.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Lista.cshtml",
-              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\Views\\Heroe\\Lista.cshtml",
-              "RelativeDocumentMoniker": "Views\\Heroe\\Lista.cshtml",
-              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\Views\\Heroe\\Lista.cshtml",
-              "RelativeToolTip": "Views\\Heroe\\Lista.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvxIAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T23:09:08.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UniversoServicio.cs",
-              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Servicios\\UniversoServicio.cs",
-              "RelativeDocumentMoniker": "..\\GestionSuperheroes.Servicios\\UniversoServicio.cs",
-              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Servicios\\UniversoServicio.cs",
-              "RelativeToolTip": "..\\GestionSuperheroes.Servicios\\UniversoServicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T22:46:10.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Superheroe.cs",
-              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Data\\EF\\Superheroe.cs",
-              "RelativeDocumentMoniker": "..\\GestionSuperheroes.Data\\EF\\Superheroe.cs",
-              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Data\\EF\\Superheroe.cs",
-              "RelativeToolTip": "..\\GestionSuperheroes.Data\\EF\\Superheroe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T22:37:23.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SuperHeroeServicio.cs",
-              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Servicios\\SuperHeroeServicio.cs",
-              "RelativeDocumentMoniker": "..\\GestionSuperheroes.Servicios\\SuperHeroeServicio.cs",
-              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Servicios\\SuperHeroeServicio.cs",
-              "RelativeToolTip": "..\\GestionSuperheroes.Servicios\\SuperHeroeServicio.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAuwCAAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T22:30:22.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HeroesBdContext.cs",
-              "DocumentMoniker": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\EF\\HeroesBdContext.cs",
-              "RelativeDocumentMoniker": "EF\\HeroesBdContext.cs",
-              "ToolTip": "C:\\Users\\Maxi\\source\\repos\\GestionSuperheroes\\GestionSuperheroes.Web\\EF\\HeroesBdContext.cs",
-              "RelativeToolTip": "EF\\HeroesBdContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA1wA0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T22:28:50.204Z"
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
